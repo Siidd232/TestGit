@@ -2,3 +2,5 @@ This is a second test
 Test to branch -- Move to Feature
 
 Edit in Feature 1
+
+Feature Change after merger
